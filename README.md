@@ -9,7 +9,7 @@ Here you are expected to fill out
 3. location    
 4. what you worked on, please be detailed!    
 
-### Oct 9, 2024 Instructions:
+## Oct 9, 2024 Instructions:
 
 **I want you to make a script that compares the differences in two bed files**
 
@@ -23,5 +23,4 @@ Here you are expected to fill out
 | --------- | --------- | ----------------- | ----------------- | ---------------- | ---------------- |
 | name1     | name2     | 150000            | 160000            | 5000             | 25000            |
 
-
-#### **Please start with the chrX duplex subset in the `data` folder of this repository.**
+### **Please start with the chrX duplex subset in the `data` folder of this repository.**
